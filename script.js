@@ -1,6 +1,6 @@
 let divImageContainer = document.getElementById("photoGallery");
 
-// create and attach an image to the DOM tree
+
 let imgElem = document.createElement("img");
 imgElem.src = "./public/images/waterfall.jpg";
 imgElem.width = 650;
